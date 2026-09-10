@@ -1,0 +1,1 @@
+select * from {{ref('AUTOPAY_LEAKAGE')}}
